@@ -4,7 +4,7 @@ The methods to in this repository are aimed to detect segment and classify vesse
 # Semantic segmentation
 Network for semantic segmentation of both vessels and materials using fully convolutional net can be found here:
 
-[PSP net] (https://github.com/aspuru-guzik-group/Semantic-segmentation-of-materials-and-vessels-in-chemistry-lab-using-FCN). 
+[PSP net](https://github.com/aspuru-guzik-group/Semantic-segmentation-of-materials-and-vessels-in-chemistry-lab-using-FCN). 
 
 This basically assigns one or more class per pixel. The classes includes vessel or various of materials class such as liquids,solids powder,foam... (Figure 1).
 
@@ -12,7 +12,7 @@ This basically assigns one or more class per pixel. The classes includes vessel 
 Nets that split the image to instances of materials and vessels (Figure 2) can be found here:
 
 
-[Generator evaluator selector net (Hierarchical)] (https://github.com/aspuru-guzik-group/Instance-segmentation-of-images-of-materials-in-transparent-vessels-using-GES-net-)
+[Generator evaluator selector net (Hierarchical)](https://github.com/aspuru-guzik-group/Instance-segmentation-of-images-of-materials-in-transparent-vessels-using-GES-net-)
 
 and:
 
