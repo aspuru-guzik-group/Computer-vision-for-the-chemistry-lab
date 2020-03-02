@@ -20,3 +20,14 @@ and:
 
 # Vector LabPics dataset
 The Vector LabPics dataset contains images of materials and vessels in the chemistry lab and other settings. The images are annotated for both the materials and vessels for both semantic and instance segmentation. Examples can be seen in Figures 1 and 2. The full dataset can be download from   [Here](https://drive.google.com/file/d/1TZao7JDzxcJr_hMqYHLRcV2N0UHoH2c1/view?usp=sharing) or [here](https://drive.google.com/file/d/1gfaM_6eZjtg7dkFShGl1gIfsXzj1KjIX/view?usp=sharing)
+
+![](/Figure1.png)
+Figure 1 : Examples for semantic segmentation from the LabPics dataset (GT) and net results (Pred)(Images taken from the [NileRed youtube channel](https://www.youtube.com/user/TheRedNile)).
+
+
+![](/Figure2.png)
+Figure 1: Examples for instance segmentation from the LabPics dataset (GT) and net results (Pred)(Images taken from the [NileRed youtube channel](https://www.youtube.com/user/TheRedNile)).
+
+
+![](/Figure3.png)
+Figure 3: Some results (Images taken from the [NileRed youtube channel](https://www.youtube.com/user/TheRedNile)).
