@@ -1,6 +1,7 @@
 # Computer vision for recognition segmentation and classification of materials and vessels in the chemistry lab (and other settings)
 
-The methods to in this repository are aimed to detect segment and classify vessels, and material phases, in mostly transparent containers/vessels in the chemistry lab. All the methods here are based on convolutional neural nets (CNN). The methods were trained using the Vector-LabPics dataset.
+The methods to in this repository are aimed to detect segment and classify vessels, and material phases, in mostly transparent containers/vessels in the chemistry lab. All the methods here are based on convolutional neural nets (CNN). The methods were trained using the [Vector-LabPics dataset](https://drive.google.com/file/d/1TZao7JDzxcJr_hMqYHLRcV2N0UHoH2c1/view?usp=sharing).
+
 # Semantic segmentation
 Network for semantic segmentation of both vessels and materials using fully convolutional net can be found here:
 
@@ -29,5 +30,3 @@ Figure 1 : Examples for semantic segmentation from the LabPics dataset (GT) and 
 Figure 1: Examples for instance segmentation from the LabPics dataset (GT) and net results (Pred)(Images taken from the [NileRed youtube channel](https://www.youtube.com/user/TheRedNile)).
 
 
-![](/Figure3.png)
-Figure 3: Some results (Images taken from the [NileRed youtube channel](https://www.youtube.com/user/TheRedNile)).
