@@ -29,4 +29,8 @@ Figure 1 : Examples for semantic segmentation from the LabPics dataset (GT) and 
 ![](/Figure2.png)
 Figure 1: Examples for instance segmentation from the LabPics dataset (GT) and net results (Pred)(Images taken from the [NileRed youtube channel](https://www.youtube.com/user/TheRedNile)).
 
+# Thanks
+
+The images for the [LabPics dataset](https://drive.google.com/file/d/1TZao7JDzxcJr_hMqYHLRcV2N0UHoH2c1/view?usp=sharing) were supplied by the following sources Nessa Carson (@SuperScienceGrl Twitter), Chemical and Engineering Science chemistry in pictures, YouTube channels dedicated to chemistry experiments: NurdRage, NileRed, DougsLab, ChemPlayer, and Koen2All. Additional sources for images include Instagram channels chemistrylover_(Joana Kulizic),Chemistry.shz (Dr.Shakerizadeh-shirazi), MinistryOfChemistry, Chemistry And Me, ChemistryLifeStyle, vacuum_distillation, and Organic_Chemistry_Lab
+
 
