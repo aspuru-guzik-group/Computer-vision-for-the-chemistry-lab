@@ -18,9 +18,9 @@ python train.py --data-path [dataset path] --dataset Material Vessel  --subclass
 ##pretrained models
 subclass without coco dataset
 
-`maskrcnn/VML_Sub_COCO_R50_S20_G.1_A.0025_HVC_model_400.pth`
+`https://drive.google.com/file/d/1JBlyOiDK9NVhwra8Zs1WywJM3FvE6-1k/view?usp=sharing`
 
 
 subclass with coco related dataset
 
-`maskrcnn/VML_Sub_R50_S10_G.1_A.0025_HVC_model_190.pth`
+`https://drive.google.com/file/d/1bbh4YDJuWU9bUe5PQm0KHVw-qGtxvKVn/view?usp=sharing`
