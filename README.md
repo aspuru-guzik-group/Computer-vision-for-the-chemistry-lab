@@ -17,7 +17,7 @@ Nets that split the image to instances of materials and vessels (Figure 2) can b
 
 and:
 
-(Mask R-CNN)[https://github.com/aspuru-guzik-group/Computer-vision-for-the-chemistry-lab/tree/master/maskrcnn]
+[Mask R-CNN](https://github.com/aspuru-guzik-group/Computer-vision-for-the-chemistry-lab/tree/master/maskrcnn)
 
 # Vector LabPics dataset
 The Vector LabPics dataset contains images of materials and vessels in the chemistry lab and other settings. The images are annotated for both the materials and vessels for both semantic and instance segmentation. Examples can be seen in Figures 1 and 2. The full dataset can be download from   [Here](https://drive.google.com/file/d/1TZao7JDzxcJr_hMqYHLRcV2N0UHoH2c1/view?usp=sharing) or [here](https://drive.google.com/file/d/1gfaM_6eZjtg7dkFShGl1gIfsXzj1KjIX/view?usp=sharing)
